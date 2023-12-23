@@ -1,16 +1,20 @@
-### Hi there 👋
+# About me
+<p>Hey! 👋 I'm Asqar Abdullayev (asqarabdullayev).</p>
+- Telegram:                           [asqarabdullayev](https://t.me/asqarabdullayev)
 
-<!--
-**asqarabdullayev23/asqarabdullayev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Main tools
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,github)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## Other tools
+[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b><h2>Github Stats ⚡️ <h2></b></summary>
+  <a href="https://github.com/asqarabdullayev23">
+    <p align="left">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asqarabdullayev23&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asqarabdullayev23&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asqarabdullayev23&theme=github_dark&utcOffset=5"><br>
+    </p>
+  </a> 
+</details>
